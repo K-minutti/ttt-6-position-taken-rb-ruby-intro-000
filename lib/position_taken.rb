@@ -1,1 +1,4 @@
-# code your #position_taken? method here!
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " ", ]
+index = gets.chomp.to_i
+  def position_take?(board, index)
+end
